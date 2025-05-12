@@ -1,6 +1,3 @@
-# CTIS-Threat-Intel-Project-Automated-Analysis-Enrichment
-This thesis was carried out at Leonardo S.p.A., Genova, within the context of threat intelligence and backend system development. The primary objective of the project was to design and integrate an AI-powered text analysis module into an existing backend infrastructure to support the automated processing and enrichment of intelligence data.
-
 # Cyber Threat Intelligence Integration – Master's Thesis Project
 
 ## 📘 Overview
